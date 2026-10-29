@@ -1,0 +1,31 @@
+student_id,roll_number,name,branch,semester,division,email,phone
+STU001,01,Aarav Patil,Electronics and Computer,4,A,student01@example.edu,9000000001
+STU002,02,Anaya Kulkarni,Computer Engineering,4,A,student02@example.edu,9000000002
+STU003,03,Vivaan Shah,ENTC,4,A,student03@example.edu,9000000003
+STU004,04,Ira Deshmukh,Electronics and Computer,3,B,student04@example.edu,9000000004
+STU005,05,Aditya Joshi,Computer Engineering,4,B,student05@example.edu,9000000005
+STU006,06,Saanvi Pawar,ENTC,4,A,student06@example.edu,9000000006
+STU007,07,Arjun More,Electronics and Computer,4,B,student07@example.edu,9000000007
+STU008,08,Aditi Jadhav,Computer Engineering,2,B,student08@example.edu,9000000008
+STU009,09,Reyansh Shinde,ENTC,3,B,student09@example.edu,9000000009
+STU010,10,Myra Naik,Electronics and Computer,3,A,student10@example.edu,9000000010
+STU011,11,Atharv Kale,Computer Engineering,3,B,student11@example.edu,9000000011
+STU012,12,Sara Mehta,ENTC,2,A,student12@example.edu,9000000012
+STU013,13,Ishaan Bhosale,Electronics and Computer,2,A,student13@example.edu,9000000013
+STU014,14,Riya Nair,Computer Engineering,2,B,student14@example.edu,9000000014
+STU015,15,Kabir Gupta,ENTC,3,A,student15@example.edu,9000000015
+STU016,16,Avni Sawant,Electronics and Computer,2,B,student16@example.edu,9000000016
+STU017,17,Omkar Patil,Computer Engineering,2,A,student17@example.edu,9000000017
+STU018,18,Kiara Shah,ENTC,4,B,student18@example.edu,9000000018
+STU019,19,Vedant Joshi,Electronics and Computer,3,B,student19@example.edu,9000000019
+STU020,20,Tara Kulkarni,Computer Engineering,4,B,student20@example.edu,9000000020
+STU021,21,Rudra More,ENTC,4,A,student21@example.edu,9000000021
+STU022,22,Anvi Deshmukh,Electronics and Computer,4,B,student22@example.edu,9000000022
+STU023,23,Dhruv Pawar,Computer Engineering,2,A,student23@example.edu,9000000023
+STU024,24,Siya Jadhav,ENTC,2,B,student24@example.edu,9000000024
+STU025,25,Yash Kale,Electronics and Computer,2,A,student25@example.edu,9000000025
+STU026,26,Nisha Mehta,Computer Engineering,2,B,student26@example.edu,9000000026
+STU027,27,Parth Bhosale,ENTC,2,B,student27@example.edu,9000000027
+STU028,28,Mira Naik,Electronics and Computer,2,B,student28@example.edu,9000000028
+STU029,29,Neil Gupta,Computer Engineering,3,A,student29@example.edu,9000000029
+STU030,30,Aarya Sawant,ENTC,4,B,student30@example.edu,9000000030

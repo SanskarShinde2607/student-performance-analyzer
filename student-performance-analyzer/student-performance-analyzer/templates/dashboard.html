@@ -1,0 +1,13 @@
+{% extends "base.html" %}{% block title %}Dashboard{% endblock %}{% block heading %}Overview dashboard{% endblock %}{% block subtitle %}Live summary calculated from your current CSV records.{% endblock %}
+{% block content %}
+<div class="grid">
+<div class="stat"><div class="label">TOTAL STUDENTS</div><div class="value">{{ data.total_students }}</div><div class="hint">Active student records</div></div>
+<div class="stat"><div class="label">AVERAGE ATTENDANCE</div><div class="value">{{ data.avg_attendance if data.avg_attendance is not none else '—' }}{% if data.avg_attendance is not none %}%{% endif %}</div><div class="hint">Based on recorded classes</div></div>
+<div class="stat"><div class="label">AVERAGE MARKS</div><div class="value">{{ data.avg_marks if data.avg_marks is not none else '—' }}{% if data.avg_marks is not none %}%{% endif %}</div><div class="hint">Weighted by maximum marks</div></div>
+<div class="stat"><div class="label">LOW ATTENDANCE</div><div class="value">{{ data.low_attendance }}</div><div class="hint">Below configured 75% threshold</div></div></div>
+<div class="two-col"><section class="panel"><h2>Subject-wise average marks</h2>{% if charts.subject_labels %}<canvas id="subjectChart" height="210"></canvas>{% else %}<div class="empty">Add marks records to see subject performance.</div>{% endif %}</section>
+<section class="panel"><h2>Attendance distribution</h2>{% if data.avg_attendance is not none %}<canvas id="attendanceChart" height="210"></canvas>{% else %}<div class="empty">Record attendance to see the distribution.</div>{% endif %}</section></div>
+<div class="two-col"><section class="panel"><h2>Students requiring review <span class="badge Review">{{ data.at_risk }}</span></h2><canvas id="riskChart" height="180"></canvas><p class="muted" style="font-size:13px;margin-top:14px">Rule-based indicators help staff prioritize follow-up. They do not predict outcomes.</p><a class="btn secondary" href="{{ url_for('risk_students') }}">Review support list →</a></section>
+<section class="panel"><h2>Top performers</h2><div class="table-wrap"><table><thead><tr><th>Student</th><th>Branch</th><th>Marks</th></tr></thead><tbody>{% for s in data.top_students %}<tr><td><a href="{{ url_for('student_details', student_id=s.student_id) }}">{{ s.name }}</a></td><td>{{ s.branch }}</td><td>{{ s.marks_pct if s.marks_pct is not none and s.marks_pct == s.marks_pct else '—' }}{% if s.marks_pct is not none and s.marks_pct == s.marks_pct %}%{% endif %}</td></tr>{% else %}<tr><td colspan="3">No marks data yet.</td></tr>{% endfor %}</tbody></table></div></section></div>
+<script type="application/json" id="chart-data">{{ charts|tojson }}</script>
+{% endblock %}

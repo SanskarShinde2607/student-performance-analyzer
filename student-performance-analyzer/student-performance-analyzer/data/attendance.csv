@@ -1,0 +1,721 @@
+student_id,subject,date,status
+STU001,Mathematics,2026-10-01,Present
+STU001,Mathematics,2026-10-02,Present
+STU001,Mathematics,2026-10-03,Present
+STU001,Mathematics,2026-10-04,Present
+STU001,Mathematics,2026-10-05,Present
+STU001,Mathematics,2026-10-06,Absent
+STU001,Mathematics,2026-10-07,Present
+STU001,Mathematics,2026-10-08,Present
+STU001,Data Structures,2026-10-01,Present
+STU001,Data Structures,2026-10-02,Present
+STU001,Data Structures,2026-10-03,Absent
+STU001,Data Structures,2026-10-04,Present
+STU001,Data Structures,2026-10-05,Present
+STU001,Data Structures,2026-10-06,Present
+STU001,Data Structures,2026-10-07,Present
+STU001,Data Structures,2026-10-08,Present
+STU001,Python Programming,2026-10-01,Present
+STU001,Python Programming,2026-10-02,Present
+STU001,Python Programming,2026-10-03,Present
+STU001,Python Programming,2026-10-04,Absent
+STU001,Python Programming,2026-10-05,Absent
+STU001,Python Programming,2026-10-06,Present
+STU001,Python Programming,2026-10-07,Present
+STU001,Python Programming,2026-10-08,Present
+STU002,Mathematics,2026-10-01,Present
+STU002,Mathematics,2026-10-02,Present
+STU002,Mathematics,2026-10-03,Absent
+STU002,Mathematics,2026-10-04,Present
+STU002,Mathematics,2026-10-05,Present
+STU002,Mathematics,2026-10-06,Present
+STU002,Mathematics,2026-10-07,Present
+STU002,Mathematics,2026-10-08,Present
+STU002,Data Structures,2026-10-01,Present
+STU002,Data Structures,2026-10-02,Present
+STU002,Data Structures,2026-10-03,Present
+STU002,Data Structures,2026-10-04,Present
+STU002,Data Structures,2026-10-05,Present
+STU002,Data Structures,2026-10-06,Present
+STU002,Data Structures,2026-10-07,Present
+STU002,Data Structures,2026-10-08,Present
+STU002,Python Programming,2026-10-01,Present
+STU002,Python Programming,2026-10-02,Absent
+STU002,Python Programming,2026-10-03,Present
+STU002,Python Programming,2026-10-04,Present
+STU002,Python Programming,2026-10-05,Present
+STU002,Python Programming,2026-10-06,Present
+STU002,Python Programming,2026-10-07,Present
+STU002,Python Programming,2026-10-08,Present
+STU003,Mathematics,2026-10-01,Present
+STU003,Mathematics,2026-10-02,Present
+STU003,Mathematics,2026-10-03,Present
+STU003,Mathematics,2026-10-04,Present
+STU003,Mathematics,2026-10-05,Present
+STU003,Mathematics,2026-10-06,Present
+STU003,Mathematics,2026-10-07,Present
+STU003,Mathematics,2026-10-08,Present
+STU003,Data Structures,2026-10-01,Present
+STU003,Data Structures,2026-10-02,Present
+STU003,Data Structures,2026-10-03,Absent
+STU003,Data Structures,2026-10-04,Present
+STU003,Data Structures,2026-10-05,Present
+STU003,Data Structures,2026-10-06,Present
+STU003,Data Structures,2026-10-07,Present
+STU003,Data Structures,2026-10-08,Present
+STU003,Python Programming,2026-10-01,Present
+STU003,Python Programming,2026-10-02,Present
+STU003,Python Programming,2026-10-03,Present
+STU003,Python Programming,2026-10-04,Present
+STU003,Python Programming,2026-10-05,Present
+STU003,Python Programming,2026-10-06,Present
+STU003,Python Programming,2026-10-07,Present
+STU003,Python Programming,2026-10-08,Present
+STU004,Mathematics,2026-10-01,Absent
+STU004,Mathematics,2026-10-02,Present
+STU004,Mathematics,2026-10-03,Present
+STU004,Mathematics,2026-10-04,Present
+STU004,Mathematics,2026-10-05,Absent
+STU004,Mathematics,2026-10-06,Absent
+STU004,Mathematics,2026-10-07,Present
+STU004,Mathematics,2026-10-08,Present
+STU004,Data Structures,2026-10-01,Absent
+STU004,Data Structures,2026-10-02,Present
+STU004,Data Structures,2026-10-03,Present
+STU004,Data Structures,2026-10-04,Present
+STU004,Data Structures,2026-10-05,Absent
+STU004,Data Structures,2026-10-06,Present
+STU004,Data Structures,2026-10-07,Absent
+STU004,Data Structures,2026-10-08,Present
+STU004,Python Programming,2026-10-01,Present
+STU004,Python Programming,2026-10-02,Absent
+STU004,Python Programming,2026-10-03,Present
+STU004,Python Programming,2026-10-04,Present
+STU004,Python Programming,2026-10-05,Present
+STU004,Python Programming,2026-10-06,Present
+STU004,Python Programming,2026-10-07,Present
+STU004,Python Programming,2026-10-08,Present
+STU005,Mathematics,2026-10-01,Present
+STU005,Mathematics,2026-10-02,Absent
+STU005,Mathematics,2026-10-03,Present
+STU005,Mathematics,2026-10-04,Present
+STU005,Mathematics,2026-10-05,Present
+STU005,Mathematics,2026-10-06,Present
+STU005,Mathematics,2026-10-07,Present
+STU005,Mathematics,2026-10-08,Absent
+STU005,Data Structures,2026-10-01,Present
+STU005,Data Structures,2026-10-02,Present
+STU005,Data Structures,2026-10-03,Present
+STU005,Data Structures,2026-10-04,Present
+STU005,Data Structures,2026-10-05,Present
+STU005,Data Structures,2026-10-06,Present
+STU005,Data Structures,2026-10-07,Present
+STU005,Data Structures,2026-10-08,Present
+STU005,Python Programming,2026-10-01,Present
+STU005,Python Programming,2026-10-02,Present
+STU005,Python Programming,2026-10-03,Present
+STU005,Python Programming,2026-10-04,Present
+STU005,Python Programming,2026-10-05,Present
+STU005,Python Programming,2026-10-06,Present
+STU005,Python Programming,2026-10-07,Present
+STU005,Python Programming,2026-10-08,Present
+STU006,Mathematics,2026-10-01,Present
+STU006,Mathematics,2026-10-02,Present
+STU006,Mathematics,2026-10-03,Present
+STU006,Mathematics,2026-10-04,Present
+STU006,Mathematics,2026-10-05,Present
+STU006,Mathematics,2026-10-06,Present
+STU006,Mathematics,2026-10-07,Present
+STU006,Mathematics,2026-10-08,Present
+STU006,Data Structures,2026-10-01,Present
+STU006,Data Structures,2026-10-02,Absent
+STU006,Data Structures,2026-10-03,Present
+STU006,Data Structures,2026-10-04,Present
+STU006,Data Structures,2026-10-05,Present
+STU006,Data Structures,2026-10-06,Present
+STU006,Data Structures,2026-10-07,Present
+STU006,Data Structures,2026-10-08,Present
+STU006,Python Programming,2026-10-01,Present
+STU006,Python Programming,2026-10-02,Present
+STU006,Python Programming,2026-10-03,Present
+STU006,Python Programming,2026-10-04,Present
+STU006,Python Programming,2026-10-05,Present
+STU006,Python Programming,2026-10-06,Present
+STU006,Python Programming,2026-10-07,Present
+STU006,Python Programming,2026-10-08,Present
+STU007,Mathematics,2026-10-01,Present
+STU007,Mathematics,2026-10-02,Absent
+STU007,Mathematics,2026-10-03,Present
+STU007,Mathematics,2026-10-04,Present
+STU007,Mathematics,2026-10-05,Present
+STU007,Mathematics,2026-10-06,Present
+STU007,Mathematics,2026-10-07,Present
+STU007,Mathematics,2026-10-08,Present
+STU007,Data Structures,2026-10-01,Present
+STU007,Data Structures,2026-10-02,Present
+STU007,Data Structures,2026-10-03,Absent
+STU007,Data Structures,2026-10-04,Present
+STU007,Data Structures,2026-10-05,Present
+STU007,Data Structures,2026-10-06,Present
+STU007,Data Structures,2026-10-07,Present
+STU007,Data Structures,2026-10-08,Present
+STU007,Python Programming,2026-10-01,Present
+STU007,Python Programming,2026-10-02,Present
+STU007,Python Programming,2026-10-03,Present
+STU007,Python Programming,2026-10-04,Present
+STU007,Python Programming,2026-10-05,Absent
+STU007,Python Programming,2026-10-06,Present
+STU007,Python Programming,2026-10-07,Present
+STU007,Python Programming,2026-10-08,Present
+STU008,Mathematics,2026-10-01,Present
+STU008,Mathematics,2026-10-02,Absent
+STU008,Mathematics,2026-10-03,Present
+STU008,Mathematics,2026-10-04,Present
+STU008,Mathematics,2026-10-05,Absent
+STU008,Mathematics,2026-10-06,Present
+STU008,Mathematics,2026-10-07,Present
+STU008,Mathematics,2026-10-08,Present
+STU008,Data Structures,2026-10-01,Present
+STU008,Data Structures,2026-10-02,Present
+STU008,Data Structures,2026-10-03,Absent
+STU008,Data Structures,2026-10-04,Present
+STU008,Data Structures,2026-10-05,Present
+STU008,Data Structures,2026-10-06,Present
+STU008,Data Structures,2026-10-07,Present
+STU008,Data Structures,2026-10-08,Present
+STU008,Python Programming,2026-10-01,Present
+STU008,Python Programming,2026-10-02,Present
+STU008,Python Programming,2026-10-03,Present
+STU008,Python Programming,2026-10-04,Present
+STU008,Python Programming,2026-10-05,Present
+STU008,Python Programming,2026-10-06,Present
+STU008,Python Programming,2026-10-07,Present
+STU008,Python Programming,2026-10-08,Present
+STU009,Mathematics,2026-10-01,Present
+STU009,Mathematics,2026-10-02,Present
+STU009,Mathematics,2026-10-03,Absent
+STU009,Mathematics,2026-10-04,Absent
+STU009,Mathematics,2026-10-05,Present
+STU009,Mathematics,2026-10-06,Absent
+STU009,Mathematics,2026-10-07,Present
+STU009,Mathematics,2026-10-08,Present
+STU009,Data Structures,2026-10-01,Present
+STU009,Data Structures,2026-10-02,Present
+STU009,Data Structures,2026-10-03,Present
+STU009,Data Structures,2026-10-04,Present
+STU009,Data Structures,2026-10-05,Present
+STU009,Data Structures,2026-10-06,Present
+STU009,Data Structures,2026-10-07,Present
+STU009,Data Structures,2026-10-08,Present
+STU009,Python Programming,2026-10-01,Present
+STU009,Python Programming,2026-10-02,Present
+STU009,Python Programming,2026-10-03,Present
+STU009,Python Programming,2026-10-04,Present
+STU009,Python Programming,2026-10-05,Present
+STU009,Python Programming,2026-10-06,Present
+STU009,Python Programming,2026-10-07,Present
+STU009,Python Programming,2026-10-08,Present
+STU010,Mathematics,2026-10-01,Present
+STU010,Mathematics,2026-10-02,Present
+STU010,Mathematics,2026-10-03,Present
+STU010,Mathematics,2026-10-04,Present
+STU010,Mathematics,2026-10-05,Present
+STU010,Mathematics,2026-10-06,Present
+STU010,Mathematics,2026-10-07,Present
+STU010,Mathematics,2026-10-08,Absent
+STU010,Data Structures,2026-10-01,Present
+STU010,Data Structures,2026-10-02,Absent
+STU010,Data Structures,2026-10-03,Present
+STU010,Data Structures,2026-10-04,Present
+STU010,Data Structures,2026-10-05,Present
+STU010,Data Structures,2026-10-06,Present
+STU010,Data Structures,2026-10-07,Present
+STU010,Data Structures,2026-10-08,Absent
+STU010,Python Programming,2026-10-01,Present
+STU010,Python Programming,2026-10-02,Present
+STU010,Python Programming,2026-10-03,Present
+STU010,Python Programming,2026-10-04,Present
+STU010,Python Programming,2026-10-05,Present
+STU010,Python Programming,2026-10-06,Absent
+STU010,Python Programming,2026-10-07,Present
+STU010,Python Programming,2026-10-08,Present
+STU011,Mathematics,2026-10-01,Present
+STU011,Mathematics,2026-10-02,Present
+STU011,Mathematics,2026-10-03,Present
+STU011,Mathematics,2026-10-04,Present
+STU011,Mathematics,2026-10-05,Absent
+STU011,Mathematics,2026-10-06,Present
+STU011,Mathematics,2026-10-07,Present
+STU011,Mathematics,2026-10-08,Present
+STU011,Data Structures,2026-10-01,Present
+STU011,Data Structures,2026-10-02,Present
+STU011,Data Structures,2026-10-03,Present
+STU011,Data Structures,2026-10-04,Absent
+STU011,Data Structures,2026-10-05,Present
+STU011,Data Structures,2026-10-06,Present
+STU011,Data Structures,2026-10-07,Present
+STU011,Data Structures,2026-10-08,Present
+STU011,Python Programming,2026-10-01,Present
+STU011,Python Programming,2026-10-02,Present
+STU011,Python Programming,2026-10-03,Present
+STU011,Python Programming,2026-10-04,Present
+STU011,Python Programming,2026-10-05,Present
+STU011,Python Programming,2026-10-06,Present
+STU011,Python Programming,2026-10-07,Present
+STU011,Python Programming,2026-10-08,Present
+STU012,Mathematics,2026-10-01,Present
+STU012,Mathematics,2026-10-02,Absent
+STU012,Mathematics,2026-10-03,Absent
+STU012,Mathematics,2026-10-04,Absent
+STU012,Mathematics,2026-10-05,Present
+STU012,Mathematics,2026-10-06,Present
+STU012,Mathematics,2026-10-07,Present
+STU012,Mathematics,2026-10-08,Present
+STU012,Data Structures,2026-10-01,Present
+STU012,Data Structures,2026-10-02,Present
+STU012,Data Structures,2026-10-03,Absent
+STU012,Data Structures,2026-10-04,Present
+STU012,Data Structures,2026-10-05,Absent
+STU012,Data Structures,2026-10-06,Present
+STU012,Data Structures,2026-10-07,Present
+STU012,Data Structures,2026-10-08,Present
+STU012,Python Programming,2026-10-01,Present
+STU012,Python Programming,2026-10-02,Absent
+STU012,Python Programming,2026-10-03,Absent
+STU012,Python Programming,2026-10-04,Present
+STU012,Python Programming,2026-10-05,Present
+STU012,Python Programming,2026-10-06,Present
+STU012,Python Programming,2026-10-07,Absent
+STU012,Python Programming,2026-10-08,Present
+STU013,Mathematics,2026-10-01,Present
+STU013,Mathematics,2026-10-02,Present
+STU013,Mathematics,2026-10-03,Present
+STU013,Mathematics,2026-10-04,Present
+STU013,Mathematics,2026-10-05,Absent
+STU013,Mathematics,2026-10-06,Present
+STU013,Mathematics,2026-10-07,Absent
+STU013,Mathematics,2026-10-08,Absent
+STU013,Data Structures,2026-10-01,Present
+STU013,Data Structures,2026-10-02,Absent
+STU013,Data Structures,2026-10-03,Present
+STU013,Data Structures,2026-10-04,Present
+STU013,Data Structures,2026-10-05,Present
+STU013,Data Structures,2026-10-06,Present
+STU013,Data Structures,2026-10-07,Present
+STU013,Data Structures,2026-10-08,Present
+STU013,Python Programming,2026-10-01,Present
+STU013,Python Programming,2026-10-02,Absent
+STU013,Python Programming,2026-10-03,Present
+STU013,Python Programming,2026-10-04,Present
+STU013,Python Programming,2026-10-05,Present
+STU013,Python Programming,2026-10-06,Present
+STU013,Python Programming,2026-10-07,Absent
+STU013,Python Programming,2026-10-08,Present
+STU014,Mathematics,2026-10-01,Present
+STU014,Mathematics,2026-10-02,Absent
+STU014,Mathematics,2026-10-03,Present
+STU014,Mathematics,2026-10-04,Present
+STU014,Mathematics,2026-10-05,Absent
+STU014,Mathematics,2026-10-06,Present
+STU014,Mathematics,2026-10-07,Absent
+STU014,Mathematics,2026-10-08,Present
+STU014,Data Structures,2026-10-01,Present
+STU014,Data Structures,2026-10-02,Present
+STU014,Data Structures,2026-10-03,Present
+STU014,Data Structures,2026-10-04,Present
+STU014,Data Structures,2026-10-05,Present
+STU014,Data Structures,2026-10-06,Present
+STU014,Data Structures,2026-10-07,Present
+STU014,Data Structures,2026-10-08,Present
+STU014,Python Programming,2026-10-01,Present
+STU014,Python Programming,2026-10-02,Present
+STU014,Python Programming,2026-10-03,Present
+STU014,Python Programming,2026-10-04,Absent
+STU014,Python Programming,2026-10-05,Present
+STU014,Python Programming,2026-10-06,Present
+STU014,Python Programming,2026-10-07,Present
+STU014,Python Programming,2026-10-08,Present
+STU015,Mathematics,2026-10-01,Present
+STU015,Mathematics,2026-10-02,Present
+STU015,Mathematics,2026-10-03,Absent
+STU015,Mathematics,2026-10-04,Present
+STU015,Mathematics,2026-10-05,Absent
+STU015,Mathematics,2026-10-06,Present
+STU015,Mathematics,2026-10-07,Present
+STU015,Mathematics,2026-10-08,Present
+STU015,Data Structures,2026-10-01,Present
+STU015,Data Structures,2026-10-02,Present
+STU015,Data Structures,2026-10-03,Present
+STU015,Data Structures,2026-10-04,Present
+STU015,Data Structures,2026-10-05,Present
+STU015,Data Structures,2026-10-06,Present
+STU015,Data Structures,2026-10-07,Absent
+STU015,Data Structures,2026-10-08,Absent
+STU015,Python Programming,2026-10-01,Present
+STU015,Python Programming,2026-10-02,Absent
+STU015,Python Programming,2026-10-03,Present
+STU015,Python Programming,2026-10-04,Present
+STU015,Python Programming,2026-10-05,Present
+STU015,Python Programming,2026-10-06,Present
+STU015,Python Programming,2026-10-07,Present
+STU015,Python Programming,2026-10-08,Present
+STU016,Mathematics,2026-10-01,Present
+STU016,Mathematics,2026-10-02,Present
+STU016,Mathematics,2026-10-03,Present
+STU016,Mathematics,2026-10-04,Present
+STU016,Mathematics,2026-10-05,Present
+STU016,Mathematics,2026-10-06,Present
+STU016,Mathematics,2026-10-07,Present
+STU016,Mathematics,2026-10-08,Absent
+STU016,Data Structures,2026-10-01,Present
+STU016,Data Structures,2026-10-02,Absent
+STU016,Data Structures,2026-10-03,Absent
+STU016,Data Structures,2026-10-04,Present
+STU016,Data Structures,2026-10-05,Present
+STU016,Data Structures,2026-10-06,Absent
+STU016,Data Structures,2026-10-07,Present
+STU016,Data Structures,2026-10-08,Present
+STU016,Python Programming,2026-10-01,Present
+STU016,Python Programming,2026-10-02,Present
+STU016,Python Programming,2026-10-03,Absent
+STU016,Python Programming,2026-10-04,Present
+STU016,Python Programming,2026-10-05,Present
+STU016,Python Programming,2026-10-06,Present
+STU016,Python Programming,2026-10-07,Present
+STU016,Python Programming,2026-10-08,Present
+STU017,Mathematics,2026-10-01,Present
+STU017,Mathematics,2026-10-02,Present
+STU017,Mathematics,2026-10-03,Absent
+STU017,Mathematics,2026-10-04,Absent
+STU017,Mathematics,2026-10-05,Present
+STU017,Mathematics,2026-10-06,Present
+STU017,Mathematics,2026-10-07,Present
+STU017,Mathematics,2026-10-08,Present
+STU017,Data Structures,2026-10-01,Absent
+STU017,Data Structures,2026-10-02,Absent
+STU017,Data Structures,2026-10-03,Present
+STU017,Data Structures,2026-10-04,Present
+STU017,Data Structures,2026-10-05,Absent
+STU017,Data Structures,2026-10-06,Present
+STU017,Data Structures,2026-10-07,Present
+STU017,Data Structures,2026-10-08,Present
+STU017,Python Programming,2026-10-01,Present
+STU017,Python Programming,2026-10-02,Present
+STU017,Python Programming,2026-10-03,Absent
+STU017,Python Programming,2026-10-04,Present
+STU017,Python Programming,2026-10-05,Present
+STU017,Python Programming,2026-10-06,Absent
+STU017,Python Programming,2026-10-07,Present
+STU017,Python Programming,2026-10-08,Present
+STU018,Mathematics,2026-10-01,Present
+STU018,Mathematics,2026-10-02,Present
+STU018,Mathematics,2026-10-03,Present
+STU018,Mathematics,2026-10-04,Present
+STU018,Mathematics,2026-10-05,Present
+STU018,Mathematics,2026-10-06,Present
+STU018,Mathematics,2026-10-07,Present
+STU018,Mathematics,2026-10-08,Present
+STU018,Data Structures,2026-10-01,Present
+STU018,Data Structures,2026-10-02,Present
+STU018,Data Structures,2026-10-03,Present
+STU018,Data Structures,2026-10-04,Absent
+STU018,Data Structures,2026-10-05,Present
+STU018,Data Structures,2026-10-06,Present
+STU018,Data Structures,2026-10-07,Present
+STU018,Data Structures,2026-10-08,Present
+STU018,Python Programming,2026-10-01,Present
+STU018,Python Programming,2026-10-02,Present
+STU018,Python Programming,2026-10-03,Present
+STU018,Python Programming,2026-10-04,Present
+STU018,Python Programming,2026-10-05,Present
+STU018,Python Programming,2026-10-06,Present
+STU018,Python Programming,2026-10-07,Present
+STU018,Python Programming,2026-10-08,Present
+STU019,Mathematics,2026-10-01,Present
+STU019,Mathematics,2026-10-02,Present
+STU019,Mathematics,2026-10-03,Present
+STU019,Mathematics,2026-10-04,Present
+STU019,Mathematics,2026-10-05,Present
+STU019,Mathematics,2026-10-06,Present
+STU019,Mathematics,2026-10-07,Present
+STU019,Mathematics,2026-10-08,Present
+STU019,Data Structures,2026-10-01,Present
+STU019,Data Structures,2026-10-02,Present
+STU019,Data Structures,2026-10-03,Present
+STU019,Data Structures,2026-10-04,Present
+STU019,Data Structures,2026-10-05,Present
+STU019,Data Structures,2026-10-06,Present
+STU019,Data Structures,2026-10-07,Present
+STU019,Data Structures,2026-10-08,Present
+STU019,Python Programming,2026-10-01,Present
+STU019,Python Programming,2026-10-02,Absent
+STU019,Python Programming,2026-10-03,Absent
+STU019,Python Programming,2026-10-04,Present
+STU019,Python Programming,2026-10-05,Present
+STU019,Python Programming,2026-10-06,Present
+STU019,Python Programming,2026-10-07,Present
+STU019,Python Programming,2026-10-08,Present
+STU020,Mathematics,2026-10-01,Present
+STU020,Mathematics,2026-10-02,Present
+STU020,Mathematics,2026-10-03,Present
+STU020,Mathematics,2026-10-04,Absent
+STU020,Mathematics,2026-10-05,Present
+STU020,Mathematics,2026-10-06,Present
+STU020,Mathematics,2026-10-07,Present
+STU020,Mathematics,2026-10-08,Present
+STU020,Data Structures,2026-10-01,Present
+STU020,Data Structures,2026-10-02,Present
+STU020,Data Structures,2026-10-03,Present
+STU020,Data Structures,2026-10-04,Present
+STU020,Data Structures,2026-10-05,Absent
+STU020,Data Structures,2026-10-06,Absent
+STU020,Data Structures,2026-10-07,Present
+STU020,Data Structures,2026-10-08,Present
+STU020,Python Programming,2026-10-01,Present
+STU020,Python Programming,2026-10-02,Absent
+STU020,Python Programming,2026-10-03,Absent
+STU020,Python Programming,2026-10-04,Absent
+STU020,Python Programming,2026-10-05,Present
+STU020,Python Programming,2026-10-06,Present
+STU020,Python Programming,2026-10-07,Present
+STU020,Python Programming,2026-10-08,Present
+STU021,Mathematics,2026-10-01,Present
+STU021,Mathematics,2026-10-02,Present
+STU021,Mathematics,2026-10-03,Absent
+STU021,Mathematics,2026-10-04,Present
+STU021,Mathematics,2026-10-05,Absent
+STU021,Mathematics,2026-10-06,Absent
+STU021,Mathematics,2026-10-07,Present
+STU021,Mathematics,2026-10-08,Absent
+STU021,Data Structures,2026-10-01,Present
+STU021,Data Structures,2026-10-02,Present
+STU021,Data Structures,2026-10-03,Absent
+STU021,Data Structures,2026-10-04,Absent
+STU021,Data Structures,2026-10-05,Present
+STU021,Data Structures,2026-10-06,Present
+STU021,Data Structures,2026-10-07,Absent
+STU021,Data Structures,2026-10-08,Present
+STU021,Python Programming,2026-10-01,Absent
+STU021,Python Programming,2026-10-02,Present
+STU021,Python Programming,2026-10-03,Present
+STU021,Python Programming,2026-10-04,Present
+STU021,Python Programming,2026-10-05,Present
+STU021,Python Programming,2026-10-06,Absent
+STU021,Python Programming,2026-10-07,Present
+STU021,Python Programming,2026-10-08,Present
+STU022,Mathematics,2026-10-01,Present
+STU022,Mathematics,2026-10-02,Present
+STU022,Mathematics,2026-10-03,Present
+STU022,Mathematics,2026-10-04,Absent
+STU022,Mathematics,2026-10-05,Present
+STU022,Mathematics,2026-10-06,Present
+STU022,Mathematics,2026-10-07,Present
+STU022,Mathematics,2026-10-08,Present
+STU022,Data Structures,2026-10-01,Present
+STU022,Data Structures,2026-10-02,Absent
+STU022,Data Structures,2026-10-03,Present
+STU022,Data Structures,2026-10-04,Present
+STU022,Data Structures,2026-10-05,Absent
+STU022,Data Structures,2026-10-06,Present
+STU022,Data Structures,2026-10-07,Present
+STU022,Data Structures,2026-10-08,Present
+STU022,Python Programming,2026-10-01,Present
+STU022,Python Programming,2026-10-02,Present
+STU022,Python Programming,2026-10-03,Present
+STU022,Python Programming,2026-10-04,Present
+STU022,Python Programming,2026-10-05,Present
+STU022,Python Programming,2026-10-06,Present
+STU022,Python Programming,2026-10-07,Present
+STU022,Python Programming,2026-10-08,Present
+STU023,Mathematics,2026-10-01,Present
+STU023,Mathematics,2026-10-02,Present
+STU023,Mathematics,2026-10-03,Present
+STU023,Mathematics,2026-10-04,Present
+STU023,Mathematics,2026-10-05,Present
+STU023,Mathematics,2026-10-06,Present
+STU023,Mathematics,2026-10-07,Present
+STU023,Mathematics,2026-10-08,Present
+STU023,Data Structures,2026-10-01,Present
+STU023,Data Structures,2026-10-02,Present
+STU023,Data Structures,2026-10-03,Present
+STU023,Data Structures,2026-10-04,Present
+STU023,Data Structures,2026-10-05,Present
+STU023,Data Structures,2026-10-06,Absent
+STU023,Data Structures,2026-10-07,Present
+STU023,Data Structures,2026-10-08,Absent
+STU023,Python Programming,2026-10-01,Present
+STU023,Python Programming,2026-10-02,Present
+STU023,Python Programming,2026-10-03,Present
+STU023,Python Programming,2026-10-04,Present
+STU023,Python Programming,2026-10-05,Present
+STU023,Python Programming,2026-10-06,Present
+STU023,Python Programming,2026-10-07,Absent
+STU023,Python Programming,2026-10-08,Present
+STU024,Mathematics,2026-10-01,Absent
+STU024,Mathematics,2026-10-02,Present
+STU024,Mathematics,2026-10-03,Present
+STU024,Mathematics,2026-10-04,Present
+STU024,Mathematics,2026-10-05,Absent
+STU024,Mathematics,2026-10-06,Present
+STU024,Mathematics,2026-10-07,Present
+STU024,Mathematics,2026-10-08,Present
+STU024,Data Structures,2026-10-01,Present
+STU024,Data Structures,2026-10-02,Present
+STU024,Data Structures,2026-10-03,Present
+STU024,Data Structures,2026-10-04,Present
+STU024,Data Structures,2026-10-05,Present
+STU024,Data Structures,2026-10-06,Absent
+STU024,Data Structures,2026-10-07,Present
+STU024,Data Structures,2026-10-08,Present
+STU024,Python Programming,2026-10-01,Present
+STU024,Python Programming,2026-10-02,Present
+STU024,Python Programming,2026-10-03,Present
+STU024,Python Programming,2026-10-04,Absent
+STU024,Python Programming,2026-10-05,Present
+STU024,Python Programming,2026-10-06,Present
+STU024,Python Programming,2026-10-07,Present
+STU024,Python Programming,2026-10-08,Present
+STU025,Mathematics,2026-10-01,Present
+STU025,Mathematics,2026-10-02,Present
+STU025,Mathematics,2026-10-03,Present
+STU025,Mathematics,2026-10-04,Present
+STU025,Mathematics,2026-10-05,Present
+STU025,Mathematics,2026-10-06,Present
+STU025,Mathematics,2026-10-07,Present
+STU025,Mathematics,2026-10-08,Absent
+STU025,Data Structures,2026-10-01,Absent
+STU025,Data Structures,2026-10-02,Present
+STU025,Data Structures,2026-10-03,Present
+STU025,Data Structures,2026-10-04,Present
+STU025,Data Structures,2026-10-05,Present
+STU025,Data Structures,2026-10-06,Present
+STU025,Data Structures,2026-10-07,Present
+STU025,Data Structures,2026-10-08,Absent
+STU025,Python Programming,2026-10-01,Present
+STU025,Python Programming,2026-10-02,Present
+STU025,Python Programming,2026-10-03,Present
+STU025,Python Programming,2026-10-04,Present
+STU025,Python Programming,2026-10-05,Present
+STU025,Python Programming,2026-10-06,Absent
+STU025,Python Programming,2026-10-07,Present
+STU025,Python Programming,2026-10-08,Absent
+STU026,Mathematics,2026-10-01,Present
+STU026,Mathematics,2026-10-02,Present
+STU026,Mathematics,2026-10-03,Present
+STU026,Mathematics,2026-10-04,Absent
+STU026,Mathematics,2026-10-05,Present
+STU026,Mathematics,2026-10-06,Present
+STU026,Mathematics,2026-10-07,Present
+STU026,Mathematics,2026-10-08,Present
+STU026,Data Structures,2026-10-01,Absent
+STU026,Data Structures,2026-10-02,Present
+STU026,Data Structures,2026-10-03,Present
+STU026,Data Structures,2026-10-04,Present
+STU026,Data Structures,2026-10-05,Present
+STU026,Data Structures,2026-10-06,Absent
+STU026,Data Structures,2026-10-07,Absent
+STU026,Data Structures,2026-10-08,Present
+STU026,Python Programming,2026-10-01,Present
+STU026,Python Programming,2026-10-02,Present
+STU026,Python Programming,2026-10-03,Present
+STU026,Python Programming,2026-10-04,Present
+STU026,Python Programming,2026-10-05,Absent
+STU026,Python Programming,2026-10-06,Present
+STU026,Python Programming,2026-10-07,Present
+STU026,Python Programming,2026-10-08,Present
+STU027,Mathematics,2026-10-01,Present
+STU027,Mathematics,2026-10-02,Present
+STU027,Mathematics,2026-10-03,Present
+STU027,Mathematics,2026-10-04,Present
+STU027,Mathematics,2026-10-05,Present
+STU027,Mathematics,2026-10-06,Present
+STU027,Mathematics,2026-10-07,Absent
+STU027,Mathematics,2026-10-08,Present
+STU027,Data Structures,2026-10-01,Present
+STU027,Data Structures,2026-10-02,Present
+STU027,Data Structures,2026-10-03,Present
+STU027,Data Structures,2026-10-04,Present
+STU027,Data Structures,2026-10-05,Absent
+STU027,Data Structures,2026-10-06,Present
+STU027,Data Structures,2026-10-07,Absent
+STU027,Data Structures,2026-10-08,Present
+STU027,Python Programming,2026-10-01,Present
+STU027,Python Programming,2026-10-02,Present
+STU027,Python Programming,2026-10-03,Absent
+STU027,Python Programming,2026-10-04,Present
+STU027,Python Programming,2026-10-05,Present
+STU027,Python Programming,2026-10-06,Absent
+STU027,Python Programming,2026-10-07,Present
+STU027,Python Programming,2026-10-08,Present
+STU028,Mathematics,2026-10-01,Present
+STU028,Mathematics,2026-10-02,Present
+STU028,Mathematics,2026-10-03,Present
+STU028,Mathematics,2026-10-04,Present
+STU028,Mathematics,2026-10-05,Present
+STU028,Mathematics,2026-10-06,Present
+STU028,Mathematics,2026-10-07,Absent
+STU028,Mathematics,2026-10-08,Present
+STU028,Data Structures,2026-10-01,Present
+STU028,Data Structures,2026-10-02,Present
+STU028,Data Structures,2026-10-03,Absent
+STU028,Data Structures,2026-10-04,Present
+STU028,Data Structures,2026-10-05,Present
+STU028,Data Structures,2026-10-06,Present
+STU028,Data Structures,2026-10-07,Present
+STU028,Data Structures,2026-10-08,Present
+STU028,Python Programming,2026-10-01,Present
+STU028,Python Programming,2026-10-02,Present
+STU028,Python Programming,2026-10-03,Present
+STU028,Python Programming,2026-10-04,Present
+STU028,Python Programming,2026-10-05,Present
+STU028,Python Programming,2026-10-06,Present
+STU028,Python Programming,2026-10-07,Present
+STU028,Python Programming,2026-10-08,Absent
+STU029,Mathematics,2026-10-01,Present
+STU029,Mathematics,2026-10-02,Present
+STU029,Mathematics,2026-10-03,Present
+STU029,Mathematics,2026-10-04,Present
+STU029,Mathematics,2026-10-05,Present
+STU029,Mathematics,2026-10-06,Present
+STU029,Mathematics,2026-10-07,Absent
+STU029,Mathematics,2026-10-08,Present
+STU029,Data Structures,2026-10-01,Absent
+STU029,Data Structures,2026-10-02,Present
+STU029,Data Structures,2026-10-03,Present
+STU029,Data Structures,2026-10-04,Present
+STU029,Data Structures,2026-10-05,Present
+STU029,Data Structures,2026-10-06,Present
+STU029,Data Structures,2026-10-07,Absent
+STU029,Data Structures,2026-10-08,Present
+STU029,Python Programming,2026-10-01,Present
+STU029,Python Programming,2026-10-02,Present
+STU029,Python Programming,2026-10-03,Present
+STU029,Python Programming,2026-10-04,Present
+STU029,Python Programming,2026-10-05,Present
+STU029,Python Programming,2026-10-06,Present
+STU029,Python Programming,2026-10-07,Present
+STU029,Python Programming,2026-10-08,Present
+STU030,Mathematics,2026-10-01,Present
+STU030,Mathematics,2026-10-02,Present
+STU030,Mathematics,2026-10-03,Absent
+STU030,Mathematics,2026-10-04,Absent
+STU030,Mathematics,2026-10-05,Present
+STU030,Mathematics,2026-10-06,Absent
+STU030,Mathematics,2026-10-07,Absent
+STU030,Mathematics,2026-10-08,Present
+STU030,Data Structures,2026-10-01,Present
+STU030,Data Structures,2026-10-02,Present
+STU030,Data Structures,2026-10-03,Absent
+STU030,Data Structures,2026-10-04,Present
+STU030,Data Structures,2026-10-05,Present
+STU030,Data Structures,2026-10-06,Present
+STU030,Data Structures,2026-10-07,Present
+STU030,Data Structures,2026-10-08,Present
+STU030,Python Programming,2026-10-01,Present
+STU030,Python Programming,2026-10-02,Present
+STU030,Python Programming,2026-10-03,Absent
+STU030,Python Programming,2026-10-04,Present
+STU030,Python Programming,2026-10-05,Absent
+STU030,Python Programming,2026-10-06,Present
+STU030,Python Programming,2026-10-07,Present
+STU030,Python Programming,2026-10-08,Present

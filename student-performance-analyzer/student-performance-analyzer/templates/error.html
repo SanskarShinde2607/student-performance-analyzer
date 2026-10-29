@@ -1,0 +1,1 @@
+{% extends "base.html" %}{% block title %}{{ code }}{% endblock %}{% block heading %}{{ code }} — page unavailable{% endblock %}{% block subtitle %}{{ message }}{% endblock %}{% block content %}<section class="panel"><p>Try returning to the dashboard or student directory.</p><a class="btn" href="{{ url_for('dashboard') }}">Go to dashboard</a></section>{% endblock %}
